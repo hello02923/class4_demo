@@ -1,0 +1,15 @@
+2022-12-26 09:36:02,580 INFO pchome <module> ==開始檢查頁數==
+2022-12-26 09:36:02,621 INFO pchome <module> ==完成檢查頁數，共15頁==
+2022-12-26 09:36:02,621 INFO pchome <module> ==查詢關鍵字：洗衣精==
+2022-12-26 09:36:02,621 INFO pchome crawler ==  第1頁 ==
+2022-12-26 09:36:02,762 INFO pchome crawler 商品數量：20
+2022-12-26 09:36:02,762 INFO pchome crawler ==  第2頁 ==
+2022-12-26 09:36:02,910 INFO pchome crawler 商品數量：20
+2022-12-26 09:36:02,911 INFO pchome crawler ==  第3頁 ==
+2022-12-26 09:36:03,064 INFO pchome crawler 商品數量：20
+2022-12-26 09:36:03,064 INFO pchome crawler ==  第4頁 ==
+2022-12-26 09:36:03,197 INFO pchome crawler 商品數量：20
+2022-12-26 09:36:03,197 INFO pchome <module> ==完成爬取資料==
+2022-12-26 09:36:03,197 INFO pchome <module> ==開始儲存==
+2022-12-26 09:36:03,257 INFO pchome insert_db 儲存成功
+2022-12-26 09:36:03,257 INFO pchome <module> ==完成儲存==
